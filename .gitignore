@@ -12,7 +12,6 @@ __pycache__/
 *.pyc
 .env
 df_final.xlsx
-data/
 student_risk_app/
 
 .venv/
@@ -21,5 +20,4 @@ __pycache__/
 *.pyc
 .env
 df_final.xlsx
-data/
 student_risk_app/
